@@ -1,2 +1,4 @@
 Add new file s3.txt
 1. u2 add a line to s3.txt
+2. u2 add 2nd line to s3.txt
+
